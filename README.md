@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on typescript projects and assignments GIAIWMD program.
-- - 🌱 I’m currently learning typescript , node.js , python in governer house batch 1 quater 1 
+### Hi there 
+- - 🌱 I’m currently learning GEN AI , WEB 3.0 , METAVERSE
+
 <!--
 **Shabbir811/Shabbir811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
