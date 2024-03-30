@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on typescript projects and assignments GIAIWMD prgram.
+- - 🌱 I’m currently learning typescript , node.js , python in governer house batch 1 quater 1 
 <!--
 **Shabbir811/Shabbir811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
